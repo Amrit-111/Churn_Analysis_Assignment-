@@ -30,9 +30,9 @@ A basic Logistic Regression model was used for prediction to keep it simple and 
 Business recommendations are based only on data patterns found in the dataset (not on external market data).
 
 
-**🚀 steps to Run**
+**🚀 Steps to Run**
 
-1. **Pre-requisites:**
+1.**Pre-requisites:**
 pip install pandas numpy matplotlib seaborn scikit-learn
 
 2.**Clone the repository:**
