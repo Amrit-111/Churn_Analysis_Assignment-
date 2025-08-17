@@ -30,16 +30,16 @@ A basic Logistic Regression model was used for prediction to keep it simple and 
 Business recommendations are based only on data patterns found in the dataset (not on external market data).
 
 
-**🚀 How to Run**
+**🚀 steps to Run**
 
-1.**Clone the repository:**
+1. **Pre-requisites:**
+pip install pandas numpy matplotlib seaborn scikit-learn
+
+2.**Clone the repository:**
 git clone https://github.com/Amrit-111/Churn_Analysis_Assignment-
 
-2.**Open the Jupyter Notebook:**
+3.**Open the Jupyter Notebook:**
 jupyter notebook notebooks/python_analysis.ipynb
-
-3.**Install required libraries (if missing):**
-pip install pandas numpy matplotlib seaborn scikit-learn
 
 4.Run cells step by step to reproduce results.
 
