@@ -32,6 +32,21 @@ Business recommendations are based only on data patterns found in the dataset (n
 
 **🚀 Steps to Run**
 
+### 1. Database Setup (SQL)
+
+1. **Import the dataset into MySQL:**
+   - Create a schema named `assignment`.
+   - Create a table named `project`.
+   - Run the SQL scripts provided in `sql_scripts/` to clean and validate the data.
+
+2. **Key SQL tasks performed:**
+   - Fix encoding issues in column names.
+   - Validate missing or blank values across all columns.
+   - Ensure data types are consistent with metadata.
+
+
+### 2. Python Analysis (Jupyter Notebook)
+
 1.**Pre-requisites:**
 pip install pandas numpy matplotlib seaborn scikit-learn
 
